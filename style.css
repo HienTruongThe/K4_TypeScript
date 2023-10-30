@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    text-align: center;
+    border: 1px solid #333;
+    margin: 6% 35%;
+    padding: 0 0 100px;
+    border-radius: 6%;
+    background-color: bisque;
+}
+
+.prf_img img {
+    width: 200px;
+}
+
+.prf_name {
+    color: #fff;
+    padding: 20px;
+    background-color: #004aad;
+}
